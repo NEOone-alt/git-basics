@@ -1,3 +1,7 @@
 h1 {
- fount-weight: normal; 
+ fount-weight: normal;
+}
+p {
+ font-weight: bold;
+ color: red;
 }
